@@ -1,0 +1,12 @@
+faiss-cpu
+langchain
+langchain-community
+langchain-text-splitters
+langchain-core
+streamlit
+python-dotenv
+langchain-cohere
+cohere
+tiktoken
+pypdf
+rank_bm25
